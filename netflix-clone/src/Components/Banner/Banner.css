@@ -8,7 +8,7 @@
 
 .banner_contents {
   margin-left: 90px;
-  padding: 300px 0;
+  padding: 150px 0;
 }
 
 .banner_title {
@@ -51,10 +51,11 @@
 }
 
 .banner_fadeButton {
-  height: 100vh;
+  height: 40vh;
   background-image: linear-gradient(
     180deg,
     transparent,
-    rgb(37, 37, 37, 0.91) #1111
+    rgb(37, 37, 37, 0.91),
+    #111
   );
 }
